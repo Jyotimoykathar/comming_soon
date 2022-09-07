@@ -23,8 +23,8 @@ This is a commingsoon landing page a challange by Tsquare-Digital.
 
 ### Links
 
-- Code File URL: [github.com](https://github.com/Jyotimoykathar/Project-01)
-- Live Site URL: [netlify.app](https://project-01-trend2025.netlify.app/)
+- Code File URL: [github.com](https://github.com/Jyotimoykathar/comming_soon)
+- Live Site URL: [netlify.app](https://cookie-comming-soon.netlify.app/)
 
 ## My Process
 

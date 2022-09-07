@@ -129,10 +129,6 @@ body {
   cursor: pointer;
   text-transform: uppercase;
 }
-/* input:focus,
-textarea:focus {
-  border: 1px solid #1971c1;
-} */
 
 /* ************** */
 /* MEDIA QUERIES */
@@ -216,5 +212,10 @@ textarea:focus {
   }
   .left-heading-image .cookie-image img {
     width: 72%;
+  }
+  .footer-container .social {
+    flex-direction: column;
+    align-self: flex-end;
+    margin-right: 4rem;
   }
 }
